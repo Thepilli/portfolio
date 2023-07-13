@@ -23,8 +23,7 @@ class ProjectRepository {
         description: _appLocalizations.portfolioDescription,
         technologies: ["Flutter", "Dart", "Firebase"],
         url: "",
-        photoUrl:
-            "https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/linkHolder.png?alt=media&token=9ace1934-a05f-4ad1-9ac3-74f78de96173",
+        photoUrl: "https://raw.githubusercontent.com/Thepilli/portfolio/main/assets/images/Portfolio_dark.png",
       ),
       Project(
         title: "Project 1",
@@ -37,40 +36,35 @@ class ProjectRepository {
           "Docker",
         ],
         url: "",
-        photoUrl:
-            "https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/linkHolder.png?alt=media&token=9ace1934-a05f-4ad1-9ac3-74f78de96173",
+        photoUrl: "https://raw.githubusercontent.com/Thepilli/jidlo_je_lek/main/assets/jidlo_je_lek_screens.png",
       ),
       Project(
         title: "Project 2",
         description: _appLocalizations.projectTwoDescription,
         technologies: ["Flutter", "Dart"],
         url: "",
-        photoUrl:
-            "https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/linkHolder.png?alt=media&token=9ace1934-a05f-4ad1-9ac3-74f78de96173",
+        photoUrl: "https://raw.githubusercontent.com/Thepilli/bubble_tea_app/main/assets/screenshots/boba_tea_app.png",
       ),
       Project(
         title: "Project 3",
         description: _appLocalizations.projectThreeDescription,
         technologies: ["Symfony", "PHP", "Bootstrap", "MariaDB", "Apache"],
         url: "",
-        photoUrl:
-            "https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/linkHolder.png?alt=media&token=9ace1934-a05f-4ad1-9ac3-74f78de96173",
+        photoUrl: "https://raw.githubusercontent.com/Thepilli/authentication_app/main/assets/screenshots/responsive_login.png",
       ),
       Project(
         title: "Project 4",
         description: _appLocalizations.projectFourDescription,
         technologies: ["Flask", "Python", "MariaDB", "Docker"],
         url: "",
-        photoUrl:
-            "https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/linkHolder.png?alt=media&token=9ace1934-a05f-4ad1-9ac3-74f78de96173",
+        photoUrl: "https://raw.githubusercontent.com/Thepilli/portfolio/main/assets/screenshots/Portfolio_dark.png",
       ),
       Project(
         title: "Project 5",
         description: _appLocalizations.projectFiveDescription,
         technologies: ["JavaFX", "Java", "MariaDB"],
         url: "",
-        photoUrl:
-            "https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/linkHolder.png?alt=media&token=9ace1934-a05f-4ad1-9ac3-74f78de96173",
+        photoUrl: "https://raw.githubusercontent.com/Thepilli/portfolio/main/assets/screenshots/Portfolio_dark.png",
       ),
     ];
   }

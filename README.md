@@ -1,6 +1,6 @@
 <img src="assets/images/Zeyada_White.png" align="right" width="60px"/>
 
-# Flutter Portfolio [![Licence](https://img.shields.io/badge/licence-MIT-a51931.svg?style=flat-square)](https://github.com/Aaldn/portfolio/blob/main/LICENSE.md)
+# Flutter Portfolio [![Licence](https://img.shields.io/badge/licence-MIT-a51931.svg?style=flat-square)](https://github.com/Thepilli/portfolio/blob/main/LICENSE.md)
 
 Flutter [Portfolio]() – by [@Thepilli](https://github.com/Thepilli)
 
