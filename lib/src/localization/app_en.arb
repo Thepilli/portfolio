@@ -1,0 +1,142 @@
+{
+  "name": "Jiri Pillar",
+  "@name": {
+    "description": "My name"
+  },
+  "homeSectionTitle": "Home",
+  "@homeSectionTitle": {
+    "description": "Title of Home section"
+  },
+  "aboutSectionTitle": "About",
+  "@aboutSectionTitle": {
+    "description": "Title of About section"
+  },
+  "aboutSectionTitleAlt": "About Me",
+  "@aboutSectionTitleAlt": {
+    "description": "Title of About section"
+  },
+  "experienceSectionTitle": "Experience",
+  "@experienceSectionTitle": {
+    "description": "Title of Experience section"
+  },
+  "projectsSectionTitle": "Projects",
+  "@projectsSectionTitle": {
+    "description": "Title of Projects section"
+  },
+  "englishLanguage": "English",
+  "@englishLanguage": {
+    "description": "English language resume"
+  },
+  "czechLanguage": "Czech",
+  "@czechLanguage": {
+    "description": "Czech language resume"
+  },
+  "resume": "Resume",
+  "@resume": {
+    "description": "Resume"
+  },
+  "downloadResume": "Download resume",
+  "@downloadResume": {
+    "description": "Resume download dialog"
+  },
+  "resumePresent": "Present",
+  "@resumePresent": {
+    "description": "Current job or education"
+  },
+  "description": "Data Scientist",
+  "@description": {
+    "description": "My description"
+  },
+  "subDescription": "Application Development Enthusiast",
+  "@subDescription": {
+    "description": "My sub description"
+  },
+  "about": "I am a young professional working in data analytics and big data area, focusing on AI and cognitive services, their implementation and configuration.\n\nMy latest passion is building applications, bridging the gap between engineering and design\n\nI strive in international environment and welcome difficult tasks with open arms.\n\nI hold multiple professional certifications, with focus on data analytics, visualization and its monetization, as well as application development across multiple platforms.",
+  "@about": {
+    "description": "My introduction"
+  },
+  "appDevJobTitle": "Application Development",
+  "@appDevJobTitle": {
+    "description": "Application Development job title"
+  },
+  "senDataScJobTitle": "Senior Data Scientist",
+  "@senDataScJobTitle": {
+    "description": "Senior Data Scientist job title"
+  },
+  "busIntConJobTitle": "Business Integration Consultant",
+  "@busIntConJobTitle": {
+    "description": "Business Integration Consultant job title"
+  },
+  "busIntAnaJobTitle": "Business Integration Analyst",
+  "@busIntAnaJobTitle": {
+    "description": "Business Integration Analyst job title"
+  },
+  "appDevJobDescription": "Working collaboratively using GitHub and GitLab for repository management tasks such as pull requests and peer reviews. \n\nDeveloped a multiplatform application to help patients with eating disorders as a pro bono project for the psychiatric clinic of the General University Hospital in Prague. \n\nCollaborating remotely with designers and engineers on pro bono projects, creating new brands, design systems, and websites for community organizations. My skills include studying stakeholders' requirements, conducting functional analysis, and developing offline-first mobile application components with Flutter and a REST API",
+  "@appDevJobDescription": {
+    "description": "Application Development description"
+  },
+  "senDataScJobDescription": "Led the successful migration of an existing solution to a newly designed custom platform, ensuring seamless integration of multiple data sources and implementing automated processing for enhanced efficiency.\n\nDrove the creation of accessible and inclusive products, focusing on designing digital experiences that catered to diverse user needs and promoting inclusivity through intuitive design and user-friendly interfaces.\n\nDeveloped an IoT solution focused on sustainability, leveraging IoT technologies to optimize resource usage, monitor environmental impact, and drive sustainable practices. Served as the main IoT tech analyst, overseeing the implementation and maintenance of IoT systems.\n\nConducted a comprehensive review of campaign measurement strategies, resulting in the introduction of a consolidated data layer for improved data management and streamlined reporting processes. Implemented automation for data sourcing and reporting, enabling efficient evaluation of social media performance.\n\nDesigned and created a series of internal performance dashboards tailored to the specific needs of various departments. These dashboards provided key insights and visual representations of performance metrics, empowering departments to make data-driven decisions and optimize their operations effectively.",
+  "@senDataScJobDescription": {
+    "description": "Senior Data Scientist description"
+  },
+  "busIntConJobDescription": "Personalization Enablement - Project Delivery Manager:\nAccountable for overall delivery, collaborated with stakeholders, and used web analytics platforms (Google Analytics, Adobe Analytics, Salesforce). Proficient in JIRA, Confluence, REST API, Azure DevOps. Built project health dashboards for delivery and engineering metrics.\n\nData Science Platform Support - DevOps Construction Manager:\nLed agile team in data science workflow preparation and technical process development. Supported Shiny application development and created technical documentation. Managed system development life cycle and connected DevOps tools.",
+  "@busIntConJobDescription": {
+    "description": "Business Integration Consultant description"
+  },
+  "busIntAnaJobDescription": "Quality Control & Digital Services Assessment - Big Data Architect:\nReviewed Big Data solution design and system integration, optimizing performance and integration within AWS data lake. Conducted functional analysis for a Dealer Management System solution, defining products for OEM pricing models.\n\nText Analytics - Business Integration Analyst:\nAnalyzed business requirements, defined As Is & To Be states. Evaluated Speech to Text components and applied text analytics, Natural Language Processing, and Machine Learning for aggregated reports.\n\nChatbot & Virtual Assistant Development - Developer & NLP Designer:\nDefined requirements, designed architecture, and managed Natural Language Understanding models. Developed chatbot solution for 20+ use cases using Agile methodology. Created KPI documentation, designed dialog flows, and led UATs.",
+  "@busIntAnaJobDescription": {
+    "description": "Business Integration Analyst description"
+  },
+  "portfolioDescription": "Portfolio description",
+  "@portfolioDescription": {
+    "description": "Description of the Portfolio project"
+  },
+  "projectOneDescription": "Project 1 description",
+  "@projectOneDescription": {
+    "description": "Description of Project 1"
+  },
+  "projectTwoDescription": "Project 2 description.",
+  "@projectTwoDescription": {
+    "description": "Description of Project 2"
+  },
+  "projectThreeDescription": "Project 3 description.",
+  "@projectThreeDescription": {
+    "description": "Description of Project 3"
+  },
+  "projectFourDescription": "Project 4 description.",
+  "@projectFourDescription": {
+    "description": "Description of Project 4"
+  },
+  "projectFiveDescription": "Project 5 description.",
+  "@projectFiveDescription": {
+  "description": "Description of Project 5"
+  },
+  "languages": "Languages I speak:",
+  "@languages": {
+  "description": "Jazyky"
+  },
+  "engLevel": " Fluent",
+  "@engLevel": {
+  "description": "English language level"
+  },
+  "czeLevel": " Native",
+  "@czeLevel": {
+  "description": "Czech language level"
+  },
+  "spaLevel": " Elementary",
+  "@spaLevel": {
+  "description": "Spanish language level"
+  },
+  "gerLevel": " Elementary",
+  "@gerLevel": {
+  "description": "German language level"
+  },
+  "certifications": "Obtained certifications:",
+  "@certifications": {
+  "description": "certifications"
+  },
+  "credit": "Design inspired by",
+  "@credit": {
+  "description": "Credit to"
+  }
+}

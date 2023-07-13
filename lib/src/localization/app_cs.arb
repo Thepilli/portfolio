@@ -1,0 +1,142 @@
+{
+  "name": "Jiri Pillar",
+  "@name": {
+    "description": "Moje jmeno"
+  },
+  "homeSectionTitle": "Úvod",
+  "@homeSectionTitle": {
+    "description": "Nazev sekce Úvod"
+  },
+  "aboutSectionTitle": "O mě",
+  "@aboutSectionTitle": {
+    "description": "Nazev sekce O mě"
+  },
+  "aboutSectionTitleAlt": "O mě",
+  "@aboutSectionTitleAlt": {
+    "description": "Nazev sekce O mě"
+  },
+  "experienceSectionTitle": "Zkušenosti",
+  "@experienceSectionTitle": {
+    "description": "Nazev sekce Zkušenosti"
+  },
+  "projectsSectionTitle": "Projekty",
+  "@projectsSectionTitle": {
+    "description": "Nazev sekce Projekty"
+  },
+  "englishLanguage": "V Angličtině",
+  "@englishLanguage": {
+    "description": "CV V Angličtině"
+  },
+  "czechLanguage": "V Češtině",
+  "@czechLanguage": {
+    "description": "CV V Češtině"
+  },
+  "resume": "Životopis",
+  "@resume": {
+    "description": "CV"
+  },
+  "downloadResume": "Stáhnout CV",
+  "@downloadResume": {
+    "description": "Stáhnout CV dialog"
+  },
+  "resumePresent": "Současnost",
+  "@resumePresent": {
+    "description": "Současnost zamestnani"
+  },
+  "description": "Data Scientist",
+  "@description": {
+    "description": "Pozice"
+  },
+  "subDescription": "Nadšenec do vývoje aplikací",
+  "@subDescription": {
+    "description": "Konicek"
+  },
+  "about": "Jsem mladý ale zkušený profesionál se širokým zájmem o technologie, a momentálně působím v oblasti datové analýzy a big data. Zaměřuji se především na umělou inteligenci a kognitivní služby, a to jak na jejich implementaci, tak také konfiguraci. \n\nMým nejnovějším zájmem je tvorba aplikací, která spojuje prvky inženýrství a designu, a tak vytváří most mezi technickými a estetickými aspekty. S vášní se věnuji tomuto procesu, abych zajistil nejen vynikající funkčnost, ale také zážitek pro uživatele.\n\nProsperuji v mezinárodním prostředí, jsem zvyklý pracovat s týmy různých kultur či velikostí a vítám náročné úkoly s otevřenou náručí.\n\nRozšiřuji si své znalosti prostřednictvím získávání různých certifikací. Mým hlavním zaměřením je analýza dat a vizualizace, jakož i vývoj aplikací pro různé platformy.",
+  "@about": {
+    "description": "Muj uvod"
+  },
+  "appDevJobTitle": "Developer aplikací",
+  "@appDevJobTitle": {
+    "description": "Nazev pozice Developer aplikací"
+  },
+  "senDataScJobTitle": "Senior Data Scientist",
+  "@senDataScJobTitle": {
+    "description": "Nazev Pozice 2"
+  },
+  "busIntConJobTitle": "Business Integration Consultant",
+  "@busIntConJobTitle": {
+    "description": "Nazev Pozice Business Integration Consultant"
+  },
+  "busIntAnaJobTitle": "Business Integration Analyst",
+  "@busIntAnaJobTitle": {
+    "description": "Nazev Pozice Business Integration Analyst"
+  },
+  "appDevJobDescription": "Spolupracuji s ostatními členy komunity pomocí GitHub a GitLab na úkolech jako jsou pull requesty nebo peer review jednotlivých úložišť. \n\nVyvinul jsem aplikaci pro podporu pacientů trpících poruchami příjmu potravy, jako pro bono projekt ve spolupráci s Psychiatrickou klinikou Všeobecné Fakultní Nemocnice v Praze. \n\nSpolečně s ostatními designery a developery z pro bono komunity pracuji na tvorbě a designu webových aplikací. Tato spolupráce na dálku mi umožňuje úspěšně překonávat komunikační bariéry a dosahovat kvalitních výsledků. Nadále pracují na definici požadavků pro funkční analýzy IoT řešení a vyvíjím komponenty pro mobilní a webové aplikace pomocí frameworku Flutter a REST API.",
+  "@appDevJobDescription": {
+    "description": "Popis Pozice 1"
+  },
+  "senDataScJobDescription": "Vedl jsem úspěšnou migraci legacy řešení projektového managementu na nově vytvořenou platformu, včetně integrace nových datových zdrojů a jejich automatické procesování vedoucí ke zvýšení reportovacich možností. \n\nVyvinul jsem řešení pro implementaci IoT projektu zaměřeného na udržitelnost, za využití sensorů na sledování energetické zátěže budov, jejího dopadu a možnostech snížení. Byl jsem hlavním technickým kontaktem pro IoT řešení, jejich architekturu a realizaci. \n\nProváděl jsem dlouhosáhlou analýzu kampaňového managementu a strategie jeho měření, vedoucí k implementaci jednotného reportingového řešení pro usnadění a zlepšení datového managementu a repotovacih procesů. Součástí řešení byla kompletní automatizace pohybu dat, včetně jejich obohacení o kampaně ze sociálních médií a spojených vizualizací. \n\nNavrhl jsem a vyvinul několik dashboadů pro interní účely napříč odděleními. Tato nově identifikovaná data vedla ke zlepšení efektivity a usnadnění rozhodování v rámci jednotlivých oddělení",
+  "@senDataScJobDescription": {
+    "description": "Popis Pozice 2"
+  },
+  "busIntConJobDescription": "Působil jsem v několika seniorních rolích napříč projekty. Jako manager projektu zaměřeného na personalizaci zákazníků a jejich interakcí jsem spolupracoval ostatními stakeholdery na definici a realizaci jednotlivých požadavků, a to za použití platforem jako je Google Analytics, Adobe Analytics, nebo Salesforce. Pracoval jsem s nástroji jako je JIRA, Confluence, REST APIs, Azure DevOps. Vytvářel jsem dashboardy pro sledování a hodnocení stavu jednotlivých projektů a jejich metrik. \n\nJako DevOps manager pro správu Data Science platformy jsem vedl agilní tým zajišťující podporu datových vědců a procesů spojených s jejich výzkumem, a následnou správu dle farmaceutických regulí. Vyvíjel jsem Shiny aplikace a sloužil jako technický konktakt pro jejich implemetnaci a tvorbu technické dokumentace. Zajišťoval jsem průběh životního cyklu vývoje platformy a spojených DevOps nástrojů.",
+  "@busIntConJobDescription": {
+    "description": "Popis Pozice 3"
+  },
+  "busIntAnaJobDescription": "Prováděl jsem hodnocení big data architektur, jejich integraci a následně navrhoval možnosti pro zlepšení jejich zapojení do AWS datových skladů či lake. Prováděl jsem funkční analýzy systému pro správu dealerů a vytvářel podklady pro cenové modelování. \n\nJako integrační analysta jsem vedl tvorbu produktů dle funkčních a technických požadavků, a popisoval stave současného a budoucího řešení. Za využití přepisu mluveného slova jsem prováděl analýzu textu, a aplikoval Natural Language Processing a strojové učení ke tvorbě reportů. Tvořil jsem architekturu pro aplikaci a správu Natural Language Understanding modelů. \n\nVyvinul jsem chatbot řešení pro více jak 20 use času. S vyžitím agilní metodologie jsem vedl uživatelské a akceptační testování, vytvářel dokumentaci, a navrhoval průběh dialogů.",
+  "@busIntAnaJobDescription": {
+    "description": "Popis Pozice 4"
+  },
+  "portfolioDescription": "Projekt portfolio.",
+  "@portfolioDescription": {
+    "description": "Popis Projektu portfolia"
+  },
+  "projectOneDescription": "Projekt 1",
+  "@projectOneDescription": {
+    "description": "Popis Projekt 1"
+  },
+  "projectTwoDescription": "Projekt 2",
+  "@projectTwoDescription": {
+    "description": "Popis Projekt 2"
+  },
+  "projectThreeDescription": "Projekt 3",
+  "@projectThreeDescription": {
+    "description": "Popis Projekt 3"
+  },
+  "projectFourDescription": "Projekt 4",
+  "@projectFourDescription": {
+    "description": "Popis Projekt 4"
+  },
+  "projectFiveDescription": "Projekt 5",
+  "@projectFiveDescription": {
+    "description": "Popis Projekt 5"
+  },
+  "languages": "Jazyky které ovládám:",
+  "@languages": {
+    "description": "Languages"
+  },
+  "engLevel": " plynule",
+  "@engLevel": {
+    "description": "Anglictina level"
+  },
+  "czeLevel": " rodilý mluvčí",
+  "@czeLevel": {
+    "description": "Cestina level"
+  },
+  "spaLevel": " pokročilý",
+  "@spaLevel": {
+    "description": "Spanelstina level"
+  },
+  "gerLevel": " pokročilý",
+  "@gerLevel": {
+    "description": "Nemcina level"
+  },
+  "certifications": "Dosažené certifikace:",
+  "@certifications": {
+    "description": "certifikace"
+  },
+  "credit": "Inspirováno",
+  "@credit": {
+  "description": "Inspirovano"
+  }
+}
