@@ -87,27 +87,31 @@
   "@busIntAnaJobDescription": {
     "description": "Business Integration Analyst description"
   },
-  "portfolioDescription": "Portfolio description",
+  "portfolioDescription": "Yes, it's THIS portfolio! \nThis project follows a Riverpod-based Architecture, using a feature-first approach for its structure. It is fully responsive, and supports multiple themes and languages",
   "@portfolioDescription": {
     "description": "Description of the Portfolio project"
   },
-  "projectOneDescription": "Project 1 description",
+  "projectOneDescription": "Jidlo je lek is a mobile application developed as a pro bono project with the aim of providing assistance and support to individuals struggling with eating disorders. It serves as a valuable tool for patients, caregivers, or anyone interested in the EDs topic. It was developed in collaboration with the psychiatric clinic of the General University Hospital in Prague.",
   "@projectOneDescription": {
     "description": "Description of Project 1"
   },
-  "projectTwoDescription": "Project 2 description.",
+  "projectTwoDescription": "The Boba tea application is a ready-to-use solution that provides a seamless online shopping experience. It includes features such as navigation, item customization, cart management, order screens, and secure login/authentication using Firebase.",
   "@projectTwoDescription": {
     "description": "Description of Project 2"
   },
-  "projectThreeDescription": "Project 3 description.",
+  "projectThreeDescription": "The Login Application is a ready-to-use login solution with a responsive user interface (UI) designed to work seamlessly on both desktop and mobile devices. It offers multiple authentication methods, including Google and Facebook accounts, providing users with a convenient and secure login experience.",
   "@projectThreeDescription": {
     "description": "Description of Project 3"
   },
-  "projectFourDescription": "Project 4 description.",
+  "projectFourDescription": "As a designer, developer, and technology enthusiast, I've created a comprehensive collection of UIs tailored for various use cases such as login, ecommerce, chat, and more. These UI designs are the perfect fit for those seeking quick adaptability and seamless integration into their projects. Among the apps included is my personally crafted UI design for an online groceries application, characterized by its minimalistic and clean aesthetic. Explore this collection and elevate your user experience to new heights.",
   "@projectFourDescription": {
     "description": "Description of Project 4"
   },
-  "projectFiveDescription": "Project 5 description.",
+  "projectFiveDescription": "This interface offers a seamless chatting experience where users can connect and interact with other members of their community. One of the key features is the ability to schedule messages, ensuring timely communication. I have selected shades of grey as the background color and for accents in the dark mode, creating a sleek and modern look. In the light mode, I have incorporated a combination of grey and white, which not only maintains a clean aesthetic but also helps manage users' attention.",
+  "@projectFiveDescription": {
+  "description": "Description of Project 5"
+  },
+  "projectSixDescription": "The ChatbotGPT Application is your personal virtual assistant powered by OpenAI's ChatGPT. Engage in natural and intuitive conversations with advanced language processing capabilities. From information retrieval to task automation, the chatbot provides personalized and reliable assistance. Experience the future of chatbot technology and unlock the power of intelligent interactions.",
   "@projectFiveDescription": {
   "description": "Description of Project 5"
   },

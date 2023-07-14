@@ -87,27 +87,31 @@
   "@busIntAnaJobDescription": {
     "description": "Popis Pozice 4"
   },
-  "portfolioDescription": "Projekt portfolio.",
+  "portfolioDescription": "Ano, právě TOTO portfolio. \nTento projekt je demonstrací Riverpod architektury pro state management, a feature projektové struktury. Jeho UI je plně adaptivní jak pro mobilní a desktopová zařízení, tak také pro tablety. Dále také nabízí  volbu mezi barevnými tématy a jazyky. \n\nTento projekt je vyvinut s využitím Flutter frameworku, a jeho zdrojový kód je k dispozici na GitHubu.",
   "@portfolioDescription": {
     "description": "Popis Projektu portfolia"
   },
-  "projectOneDescription": "Projekt 1",
+  "projectOneDescription": "Jídlo je lék je mobilní aplikace vyvinutá jako projekt pro bono s cílem poskytnout pomoc a podporu jedincům bojujícím s poruchami příjmu potravy. Slouží jako cenný nástroj pro pacienty, pečovatele, či kohokoliv kdo má zájem se vzdělat o tématice PPP, a byla vyvinuta ve spolupráci s psychiatrickou klinikou Všeobecné fakultní nemocnice v Praze",
   "@projectOneDescription": {
     "description": "Popis Projekt 1"
   },
-  "projectTwoDescription": "Projekt 2",
+  "projectTwoDescription": "Aplikace Boba tea je připravené řešení, které demonstruje zážitek z online nakupování. Obsahuje funkce jakoje  navigace, konfiguraci vybraného zboží, správu košíku, obrazovky objednávky a bezpečné přihlášení/ověření pomocí Firebase platformy.",
   "@projectTwoDescription": {
     "description": "Popis Projekt 2"
   },
-  "projectThreeDescription": "Projekt 3",
+  "projectThreeDescription": "Aplikace pro přihlášení je připravené řešení s responzivním uživatelským rozhraním (UI), které je navrženo tak, aby bezproblémově fungovalo na stolních počítačích i mobilních zařízeních. Nabízí několik metod pro přihlášení a ověření totožnosti, včetně účtů Google a Facebook, což uživatelům poskytuje pohodlný a bezpečný zážitek při přihlášení",
   "@projectThreeDescription": {
     "description": "Popis Projekt 3"
   },
-  "projectFourDescription": "Projekt 4",
+  "projectFourDescription": "Jako designér, vývojář a technologický nadšenec jsem sestavil kolekci uživatelských rozhraní (UI) pro různé účely, včetně přihlašování, ecommerce, chatu a dalších. Tyto designy jsou ideálním řešením pro ty, kteří si přejí rychle přizpůsobit design svým potřebám. Jedním z návrhů v této kolekci je minimalistický a čistý design UI pro online obchod s potravinami. Objevte tuto kolekci a posuňte uživatelský zážitek na novou úroveň.",
   "@projectFourDescription": {
     "description": "Popis Projekt 4"
   },
-  "projectFiveDescription": "Projekt 5",
+  "projectFiveDescription": "The Wall slouzi jako komunikační nástroj pro jakoukoliv komunitu. Jednou z klíčových funkcí je možnost plánování zpráv, které zajišťuje včasnou komunikaci. Odstíny šedé jsem vybral jako pozadí i jako akcenty v tmavém režimu, čímž vznikl elegantní a moderní vzhled. Ve světlém nastavení jsem zahrnul kombinaci šedé a bílé, která slouží nejen pro čistý vzhled, ale také pomáhá udržet pozornost uživatelů",
+  "@projectFiveDescription": {
+    "description": "Popis Projekt 5"
+  },
+  "projectSixDescription": "Aplikace ChatbotGPT je vaším osobním virtuálním asistentem, poháněným technologií ChatGPT od OpenAI. Užívejte si přirozené a intuitivní konverzace s pokročilými možnostmi zpracování jazyka. Od získávání informací po automatizaci úkolů vám ChatbotGPT poskytuje personalizovanou a spolehlivou pomoc. Zažijte budoucnost chatbot technologií a objevte sílu inteligentních interakcí.",
   "@projectFiveDescription": {
     "description": "Popis Projekt 5"
   },
