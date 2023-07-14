@@ -64,7 +64,7 @@ class ProjectRepository {
         title: "ChatbotGPT",
         description: _appLocalizations.projectSixDescription,
         technologies: ["OpenAI", "ChatGPT", "Flutter", "Dart", "Firebase", "Google", "Authentication", "Provider"],
-        url: "",
+        url: "https://github.com/Thepilli/chatbot_gpt",
         photoUrl: "https://raw.githubusercontent.com/Thepilli/the_wall_app/main/assets/screenshots/ChatGPT.png",
       ),
     ];
