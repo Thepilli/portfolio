@@ -113,7 +113,23 @@
   },
   "projectSixDescription": "Aplikace ChatbotGPT je vaším osobním virtuálním asistentem, poháněným technologií ChatGPT od OpenAI. Užívejte si přirozené a intuitivní konverzace s pokročilými možnostmi zpracování jazyka. Od získávání informací po automatizaci úkolů vám ChatbotGPT poskytuje personalizovanou a spolehlivou pomoc. Zažijte budoucnost chatbot technologií a objevte sílu inteligentních interakcí.",
   "@projectFiveDescription": {
-    "description": "Popis Projekt 5"
+    "description": "Popis Projekt 6"
+  },
+  "projectSevenDescription": "EV Control Hub App je UI mobilní aplikace navržená k zvýšení pohodlí a efektivity vlastnictví elektrického vozidla (EV). Tato aplikace nabízí řadu funkcí pro zjednodušení každodenních operací majitelů EV, podporu udržitelnosti a zajištění optimálního výkonu vozidla. Klíčové funkce zahrnují dálkové zamknutí, údržbu klimatizace, správu nabíjení a monitorování tlaku v pneumatikách.",
+  "@projectFiveDescription": {
+    "description": "Popis Projekt 7"
+  },
+  "projectEightDescription": "MexiEats je branou do bohatého a chutného světa mexické kuchyně, přímo na dosah ruky. Tato aplikace pro objednávání jídla je šitá na míru pro mexickou restauraci a obsahuje několik full stack funkcioanlit jako je vytváření účtů, interaktivní uživatelské rozhraní, vytváření objednávek, bezpečné platební možnosti a bezproblémovou integraci s administrativní webovou aplikací pro efektivní správu obsahu, sledování objednávek a údržbu.",
+  "@projectFiveDescription": {
+    "description": "Popis Projekt 8"
+  },
+  "projectNineDescription": "Muzik není jen další hudební aplikací; je to personalizovaný zážitek, který nabízí rozsáhlou knihovnu písní, využívající model a navigaci Deezer API, a jedinečný UI kit pro další vylepšení, který umožňuje přizpůsobitelný layout a barvy, které ladí s vaším individuálním stylem",
+  "@projectFiveDescription": {
+    "description": "Popis Projekt 9"
+  },
+  "projectTenDescription": "Je neuvěřitelné, že i v dnešní době prakticky neomezených možností, jsme stále zavaleni kampaněmi plnými chyb, a to i hned v prvním řádku? Co takhle natrénovat jazykový model, který by se vyvaroval podobným chybám?",
+  "@projectFiveDescription": {
+    "description": "Popis Projekt 10"
   },
   "languages": "Jazyky které ovládám:",
   "@languages": {

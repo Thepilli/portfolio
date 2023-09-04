@@ -113,7 +113,23 @@
   },
   "projectSixDescription": "The ChatbotGPT Application is your personal virtual assistant powered by OpenAI's ChatGPT. Engage in natural and intuitive conversations with advanced language processing capabilities. From information retrieval to task automation, the chatbot provides personalized and reliable assistance. Experience the future of chatbot technology and unlock the power of intelligent interactions.",
   "@projectFiveDescription": {
-  "description": "Description of Project 5"
+  "description": "Description of Project 6"
+  },
+  "projectSevenDescription": "The EV Control Hub App is a cutting-edge mobile application designed to enhance the convenience and efficiency of electric vehicle (EV) ownership. This app serves as a comprehensive solution for EV owners, offering a range of features to streamline daily operations, promote sustainability, and ensure optimal vehicle performance. Key functionalities include remote lock, AC maintenance, charging management, and tire pressure monitoring.",
+  "@projectFiveDescription": {
+  "description": "Description of Project 7"
+  },
+  "projectEightDescription": "MexiEats is your one-stop destination for savoring the rich and flavorful world of Mexican cuisine, right at your fingertips. This food ordering app is tailor-made for a Mexican restaurant, offering a delightful blend of custom account creation, interactive UI, order creation, secure payment options, and seamless integration with an admin web application for streamlined content management, order tracking, and maintenance.",
+  "@projectFiveDescription": {
+  "description": "Description of Project 8"
+  },
+  "projectNineDescription": "Muzik is not just another music app; it's a personalized experience that puts the power of music in your hands. Muzik offers a vast library of songs, utilizing the Deezer API model and navigation, and a unique UI kit for further enhancements, featuring customizable layouts and colors to suit your individual style.",
+  "@projectFiveDescription": {
+  "description": "Description of Project 9"
+  },
+  "projectTenDescription": "Isn't it unbelievable that in today's era of practically unlimited possibilities, we're still inundated with marketing campaigns full of errors? 🤔 How about training a language model to avoid such mistakes?",
+  "@projectFiveDescription": {
+  "description": "Description of Project 10"
   },
   "languages": "Languages I speak:",
   "@languages": {
