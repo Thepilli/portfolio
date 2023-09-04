@@ -24,7 +24,7 @@ class ResumeRepository {
       ),
       Resume(
         language: _appLocalizations.czechLanguage,
-        url: "https://drive.google.com/file/d/1dXVe0g1-BMubRTwsjdk9-YrvPmGBfo8P/view?usp=sharing",
+        url: "https://drive.google.com/file/d/1jVBQqJIRhJw5IMqLUMYUmo_wSk7iawha/view?usp=sharing",
       ),
     ];
   }
